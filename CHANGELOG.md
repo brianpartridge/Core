@@ -17,6 +17,10 @@
   [Boris Bügling](https://github.com/neonichu)
   [Core#204](https://github.com/CocoaPods/Core/issues/204)
 
+* Add support for test specifications in the podspec DSL.  
+  [Kyle Fuller](https://github.com/kylef)
+  [#142](https://github.com/CocoaPods/Core/pull/142)
+
 ##### Bug Fixes
 
 * Fixes the reading of dependencies that have spaces in their subspecs' name
