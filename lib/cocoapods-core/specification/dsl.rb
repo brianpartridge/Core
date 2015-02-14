@@ -1161,7 +1161,6 @@ module Pod
       attribute :module_map,
                 :root_only     => true
 
-
       #-----------------------------------------------------------------------#
 
       # @!group Subspecs
